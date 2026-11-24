@@ -46,7 +46,7 @@ flowchart LR
 
 An initial port scan from the attacker VM against the sensor simulated the reconnaissance phase of an attack.
 
-![Alt nmap](Screenshots\Initial.png)
+![Alt nmap](Screenshots/Initial.png)
 
 This scan, combined with manual follow-up, surfaced two confirmed weaknesses.
 
